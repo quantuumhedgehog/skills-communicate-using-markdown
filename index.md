@@ -20,3 +20,9 @@ Initialized empty Git repository in /home/quantuumhedgehog/Projects/skils-reposi
 my_var: str = "My string variable"
 print(my_var)
 ```
+# Step 4 -- *Task List*
+- [X] Add headers
+- [X] Add profile image link
+- [X] Add codeblocks
+- [X] Add tasklist
+- [ ] Turn on GitHub Pages
